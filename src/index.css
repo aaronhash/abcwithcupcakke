@@ -1,0 +1,8 @@
+body {
+	background-color: #ea9fb4
+}
+
+@font-face {
+	font-family: 'Sweet Cupcake';
+	src: local('Sweet Cupcake'), url(./../assets/fonts/Sweet\ Cupcake.ttf) format('truetype');
+  }
